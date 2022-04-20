@@ -1,0 +1,1232 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 02:04:43
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Darwin
+PHP VERSION_________: 7.4.28                                |7.4.1
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.1 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: nginx/1.16.0
+DOC ROOT____________: "/Users/arifalim/Local Sites/tripsupport/app/public"
+REQUEST URL_________: "http://tripsupport.local"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/Users/arifalim/Local Sites/tripsupport/app/public"
+URL_NEW_____________: "http://tripsupport.local"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/Users/arifalim/Local Sites/tripsupport/app/public/20220408_tripsupport_qa_[HASH]_20220408170258_archive.zip"
+ARCHIVE SIZE________: 1.33GB
+CREATED_____________: 2022-04-08 17:02:58
+WP VERSION__________: 5.8.4
+DUP VERSION_________: 4.5.1
+LICENSE_____________: Personal
+DB VERSION__________: 10.3.34
+DB FILE SIZE________: 39.62MB
+DB TABLES___________: 44
+DB ROWS_____________: 51238
+URL HOME____________: https://tripsupport.ca/qa
+URL CORE____________: https://tripsupport.ca/qa
+URL CONTENT_________: https://tripsupport.ca/qa/wp-content
+URL UPLOAD__________: https://tripsupport.ca/qa/wp-content/uploads
+URL PLUGINS_________: https://tripsupport.ca/qa/wp-content/plugins
+URL MU PLUGINS______: https://tripsupport.ca/qa/wp-content/mu-plugins
+URL THEMES__________: https://tripsupport.ca/qa/wp-content/themes
+PATH HOME___________: /home/tripsupport/public_html/qa
+PATH ABS____________: /home/tripsupport/public_html/qa
+PATH WPCONFIG_______: /home/tripsupport/public_html/qa
+PATH WPCONTENT______: /home/tripsupport/public_html/qa/wp-content
+PATH UPLOADS________: /home/tripsupport/public_html/qa/wp-content/uploads
+PATH PLUGINS________: /home/tripsupport/public_html/qa/wp-content/plugins
+PATH MUPLUGINS______: /home/tripsupport/public_html/qa/wp-content/mu-plugins
+PATH THEMES_________: /home/tripsupport/public_html/qa/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "tripsupport.ca/qa/"
+
+PLUGINS
+PLUGIN [SLUG:aryo-activity-log/aryo-activity-log.php           ][ON:false]  Activity Log
+PLUGIN [SLUG:advanced-custom-fields/acf.php                    ][ON:false]  Advanced Custom Fields
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:code-snippets/code-snippets.php                   ][ON:false]  Code Snippets
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:crocoblock-wizard/crocoblock-wizard.php           ][ON:false]  Crocoblock Wizard
+PLUGIN [SLUG:custom-post-type-ui/custom-post-type-ui.php       ][ON:false]  Custom Post Type UI
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:false]  Duplicate Page
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:easy-table-of-contents/easy-table-of-contents.php ][ON:true ]  Easy Table of Contents
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:freshdesk-support/fresh-desk.php                  ][ON:false]  Freshdesk Official
+PLUGIN [SLUG:fast-indexing-api/instant-indexing.php            ][ON:false]  Instant Indexing
+PLUGIN [SLUG:jet-elements/jet-elements.php                     ][ON:false]  JetElements For Elementor
+PLUGIN [SLUG:embed-lottie-player/plugin.php                    ][ON:true ]  Lottie Player- Gutenberg Block
+PLUGIN [SLUG:permalink-manager/permalink-manager.php           ][ON:true ]  Permalink Manager Lite
+PLUGIN [SLUG:polylang/polylang.php                             ][ON:true ]  Polylang
+PLUGIN [SLUG:connect-polylang-elementor/connect-polylang-elementor.php][ON:true ]  Polylang Connect for Elementor
+PLUGIN [SLUG:post-type-switcher/post-type-switcher.php         ][ON:false]  Post Type Switcher
+PLUGIN [SLUG:wp-user-avatar/wp-user-avatar.php                 ][ON:false]  ProfilePress
+PLUGIN [SLUG:seo-by-rank-math/rank-math.php                    ][ON:false]  Rank Math SEO
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:true ]  Really Simple SSL
+PLUGIN [SLUG:wp-schema-pro/wp-schema-pro.php                   ][ON:false]  Schema Pro
+PLUGIN [SLUG:shortpixel-image-optimiser/wp-shortpixel.php      ][ON:false]  ShortPixel Image Optimizer
+PLUGIN [SLUG:tr-feature-vacation-deal/tr-feature-vacation-deal.php][ON:true ]  trip support feature vacations
+PLUGIN [SLUG:tripsupport-search-main-1/trip-support-search-plugin.php][ON:true ]  trip support search plugin
+PLUGIN [SLUG:user-role-editor/user-role-editor.php             ][ON:false]  User Role Editor
+PLUGIN [SLUG:wordpress-importer/wordpress-importer.php         ][ON:false]  WordPress Importer
+PLUGIN [SLUG:wp-cloudy/wpcloudy.php                            ][ON:false]  WP Cloudy
+PLUGIN [SLUG:wp-htaccess-editor/wp-htaccess-editor.php         ][ON:false]  WP Htaccess Editor
+PLUGIN [SLUG:wp-rocket/wp-rocket.php                           ][ON:false]  WP Rocket
+PLUGIN [SLUG:wps-hide-login/wps-hide-login.php                 ][ON:true ]  WPS Hide Login
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false]  advanced-cache.php
+PLUGIN [SLUG:maintenance.php                                   ][ON:false]  maintenance.php
+
+********************************************************************************
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/ctrls/ctrl.base.php:231][DELTA:   0.05262]  MESSAGE:END RENDER PAGE
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/ctrls/ctrl.base.php:231][DELTA:   0.03732]  MESSAGE:END RENDER PAGE
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/Users/arifalim/Local Sites/tripsupport/app/public"
+--------------------------------------
+LOG-TIME[DELTA:   0.01164]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00035]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00027]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.01910]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00615]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00269]  MESSAGE:TEST "Database Version" RESULT: soft warning
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00159]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00047]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.01597]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00106]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00176]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00063]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00120]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: soft warning
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00197]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/Users/arifalim/Local Sites/tripsupport/app/public"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 02:04:56
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Trip Support"
+HOME URL NEW________: "http://tripsupport.local"
+SITE URL NEW________: "http://tripsupport.local"
+CONTENT URL NEW_____: "http://tripsupport.local/wp-content"
+UPLOAD URL NEW______: "http://tripsupport.local/wp-content/uploads"
+PLUGINS URL NEW_____: "http://tripsupport.local/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://tripsupport.local/wp-content/mu-plugins"
+HOME PATH NEW_______: "/Users/arifalim/Local Sites/tripsupport/app/public"
+SITE PATH NEW_______: "/Users/arifalim/Local Sites/tripsupport/app/public"
+CONTENT PATH NEW____: "/Users/arifalim/Local Sites/tripsupport/app/public/wp-content"
+UPLOAD PATH NEW_____: "/Users/arifalim/Local Sites/tripsupport/app/public/wp-content/uploads"
+PLUGINS PATH NEW____: "/Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/Users/arifalim/Local Sites/tripsupport/app/public/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer"
+	FILE: "/Users/arifalim/Local Sites/tripsupport/app/public/20220408_tripsupport_qa_[HASH]_20220408170258_installer-backup.php"
+	FILE: "/Users/arifalim/Local Sites/tripsupport/app/public/20220408_tripsupport_qa_[HASH]_20220408170258_archive.zip"
+	FILE: "/Users/arifalim/Local Sites/tripsupport/app/public/installer.php"
+	FILE: "/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer-bootlog__abc64e1-08170258.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20220408_tripsupport_qa_[HASH]_20220408170258_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+RESET CONFIG FILES: I'M GOING TO MOVE CONFIG FILE ".htaccess" IN ORIGINAL FOLDER
+	CONFIG FILE HAS BEEN RESET
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0111 sec. - Files processed: 15,090 of 28,053
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15090
+--------------------------------------
+PATHS MAPPING : "/Users/arifalim/Local Sites/tripsupport/app/public"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0111 sec. - Files processed: 21,217 of 28,053
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21217
+--------------------------------------
+PATHS MAPPING : "/Users/arifalim/Local Sites/tripsupport/app/public"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 28757
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 02:05:11 - RUNTIME: 16.5717 sec. - Files processed: 28,053 of 28,053
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wpstg1_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 02:05:11
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wpstg1_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wpstg1_actionscheduler_actions"__________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wpstg1_actionscheduler_actions]
+TABLE "wpstg1_actionscheduler_claims"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_actionscheduler_claims]
+TABLE "wpstg1_actionscheduler_groups"___________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpstg1_actionscheduler_groups]
+TABLE "wpstg1_actionscheduler_logs"_____________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: wpstg1_actionscheduler_logs]
+TABLE "wpstg1_aryo_activity_log"________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: wpstg1_aryo_activity_log]
+TABLE "wpstg1_commentmeta"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_commentmeta]
+TABLE "wpstg1_comments"_________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpstg1_comments]
+TABLE "wpstg1_ddp_log"__________________________________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wpstg1_ddp_log]
+TABLE "wpstg1_duplicator_pro_entities"__________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpstg1_duplicator_pro_entities]
+TABLE "wpstg1_duplicator_pro_packages"__________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpstg1_duplicator_pro_packages]
+TABLE "wpstg1_e_submissions"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpstg1_e_submissions]
+TABLE "wpstg1_e_submissions_actions_log"________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpstg1_e_submissions_actions_log]
+TABLE "wpstg1_e_submissions_values"_____________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wpstg1_e_submissions_values]
+TABLE "wpstg1_links"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_links]
+TABLE "wpstg1_ms_snippets"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_ms_snippets]
+TABLE "wpstg1_options"__________________________________[ROWS:     528] [EXTRACT|REPLACE] [INST NAME: wpstg1_options]
+TABLE "wpstg1_postmeta"_________________________________[ROWS:   31756] [EXTRACT|REPLACE] [INST NAME: wpstg1_postmeta]
+TABLE "wpstg1_posts"____________________________________[ROWS:    2723] [EXTRACT|REPLACE] [INST NAME: wpstg1_posts]
+TABLE "wpstg1_ppress_forms"_____________________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: wpstg1_ppress_forms]
+TABLE "wpstg1_ppress_formsmeta"_________________________[ROWS:     219] [EXTRACT|REPLACE] [INST NAME: wpstg1_ppress_formsmeta]
+TABLE "wpstg1_ppress_meta_data"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_ppress_meta_data]
+TABLE "wpstg1_rank_math_404_logs"_______________________[ROWS:    9068] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_404_logs]
+TABLE "wpstg1_rank_math_analytics_gsc"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_analytics_gsc]
+TABLE "wpstg1_rank_math_analytics_objects"______________[ROWS:     433] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_analytics_objects]
+TABLE "wpstg1_rank_math_internal_links"_________________[ROWS:     539] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_internal_links]
+TABLE "wpstg1_rank_math_internal_meta"__________________[ROWS:     578] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_internal_meta]
+TABLE "wpstg1_rank_math_redirections"___________________[ROWS:      54] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_redirections]
+TABLE "wpstg1_rank_math_redirections_cache"_____________[ROWS:      43] [EXTRACT|REPLACE] [INST NAME: wpstg1_rank_math_redirections_cache]
+TABLE "wpstg1_shortpixel_folders"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_shortpixel_folders]
+TABLE "wpstg1_shortpixel_meta"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_shortpixel_meta]
+TABLE "wpstg1_snippets"_________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpstg1_snippets]
+TABLE "wpstg1_termmeta"_________________________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wpstg1_termmeta]
+TABLE "wpstg1_terms"____________________________________[ROWS:      67] [EXTRACT|REPLACE] [INST NAME: wpstg1_terms]
+TABLE "wpstg1_term_relationships"_______________________[ROWS:    2535] [EXTRACT|REPLACE] [INST NAME: wpstg1_term_relationships]
+TABLE "wpstg1_term_taxonomy"____________________________[ROWS:      67] [EXTRACT|REPLACE] [INST NAME: wpstg1_term_taxonomy]
+TABLE "wpstg1_trp_dictionary_en_us_fr_fr"_______________[ROWS:     525] [EXTRACT|REPLACE] [INST NAME: wpstg1_trp_dictionary_en_us_fr_fr]
+TABLE "wpstg1_trp_gettext_en_us"________________________[ROWS:    1345] [EXTRACT|REPLACE] [INST NAME: wpstg1_trp_gettext_en_us]
+TABLE "wpstg1_trp_gettext_fr_fr"________________________[ROWS:    1151] [EXTRACT|REPLACE] [INST NAME: wpstg1_trp_gettext_fr_fr]
+TABLE "wpstg1_trp_original_meta"________________________[ROWS:     412] [EXTRACT|REPLACE] [INST NAME: wpstg1_trp_original_meta]
+TABLE "wpstg1_trp_original_strings"_____________________[ROWS:     525] [EXTRACT|REPLACE] [INST NAME: wpstg1_trp_original_strings]
+TABLE "wpstg1_usermeta"_________________________________[ROWS:     485] [EXTRACT|REPLACE] [INST NAME: wpstg1_usermeta]
+TABLE "wpstg1_users"____________________________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wpstg1_users]
+TABLE "wpstg1_wpr_rucss_resources"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_wpr_rucss_resources]
+TABLE "wpstg1_wpr_rucss_used_css"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpstg1_wpr_rucss_used_css]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 8.0.16 -- Build Server: 10.3.34
+FILE SIZE:	dup-database__[HASH].sql (24.84MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE wpstg1_actionscheduler_actions
+DROP TABLE wpstg1_actionscheduler_claims
+DROP TABLE wpstg1_actionscheduler_groups
+DROP TABLE wpstg1_actionscheduler_logs
+DROP TABLE wpstg1_admin_columns
+DROP TABLE wpstg1_aryo_activity_log
+DROP TABLE wpstg1_commentmeta
+DROP TABLE wpstg1_comments
+DROP TABLE wpstg1_ddp_log
+DROP TABLE wpstg1_duplicator_pro_entities
+DROP TABLE wpstg1_duplicator_pro_packages
+DROP TABLE wpstg1_e_events
+DROP TABLE wpstg1_e_submissions
+DROP TABLE wpstg1_e_submissions_actions_log
+DROP TABLE wpstg1_e_submissions_values
+DROP TABLE wpstg1_import_detail_log
+DROP TABLE wpstg1_import_log_detail
+DROP TABLE wpstg1_import_postID
+DROP TABLE wpstg1_jet_post_types
+DROP TABLE wpstg1_jet_smart_filters_indexer
+DROP TABLE wpstg1_jet_taxonomies
+DROP TABLE wpstg1_lhr_log
+DROP TABLE wpstg1_links
+DROP TABLE wpstg1_ms_snippets
+DROP TABLE wpstg1_options
+DROP TABLE wpstg1_pmxe_exports
+DROP TABLE wpstg1_pmxe_google_cats
+DROP TABLE wpstg1_pmxe_posts
+DROP TABLE wpstg1_pmxe_templates
+DROP TABLE wpstg1_pmxi_files
+DROP TABLE wpstg1_pmxi_hash
+DROP TABLE wpstg1_pmxi_history
+DROP TABLE wpstg1_pmxi_images
+DROP TABLE wpstg1_pmxi_imports
+DROP TABLE wpstg1_pmxi_posts
+DROP TABLE wpstg1_pmxi_templates
+DROP TABLE wpstg1_postmeta
+DROP TABLE wpstg1_posts
+DROP TABLE wpstg1_ppress_forms
+DROP TABLE wpstg1_ppress_formsmeta
+DROP TABLE wpstg1_ppress_meta_data
+DROP TABLE wpstg1_rank_math_404_logs
+DROP TABLE wpstg1_rank_math_analytics_gsc
+DROP TABLE wpstg1_rank_math_analytics_inspections
+DROP TABLE wpstg1_rank_math_analytics_objects
+DROP TABLE wpstg1_rank_math_internal_links
+DROP TABLE wpstg1_rank_math_internal_meta
+DROP TABLE wpstg1_rank_math_redirections
+DROP TABLE wpstg1_rank_math_redirections_cache
+DROP TABLE wpstg1_shortpixel_folders
+DROP TABLE wpstg1_shortpixel_meta
+DROP TABLE wpstg1_smackcsv_file_events
+DROP TABLE wpstg1_smackuci_events
+DROP TABLE wpstg1_smush_dir_images
+DROP TABLE wpstg1_snippets
+DROP TABLE wpstg1_term_relationships
+DROP TABLE wpstg1_term_taxonomy
+DROP TABLE wpstg1_termmeta
+DROP TABLE wpstg1_terms
+DROP TABLE wpstg1_tm_taskmeta
+DROP TABLE wpstg1_tm_tasks
+DROP TABLE wpstg1_trp_dictionary_en_us_fr_fr
+DROP TABLE wpstg1_trp_gettext_en_us
+DROP TABLE wpstg1_trp_gettext_fr_fr
+DROP TABLE wpstg1_trp_original_meta
+DROP TABLE wpstg1_trp_original_strings
+DROP TABLE wpstg1_ultimate_csv_importer_acf_fields
+DROP TABLE wpstg1_ultimate_csv_importer_mappingtemplate
+DROP TABLE wpstg1_ultimate_csv_importer_media
+DROP TABLE wpstg1_ultimate_csv_importer_shortcode_manager
+DROP TABLE wpstg1_ultimate_post_entries
+DROP TABLE wpstg1_usermeta
+DROP TABLE wpstg1_users
+DROP TABLE wpstg1_vxcf_hubspot
+DROP TABLE wpstg1_vxcf_hubspot_accounts
+DROP TABLE wpstg1_vxcf_hubspot_log
+DROP TABLE wpstg1_wpmailsmtp_debug_events
+DROP TABLE wpstg1_wpmailsmtp_tasks_meta
+DROP TABLE wpstg1_wpr_rucss_resources
+DROP TABLE wpstg1_wpr_rucss_used_css
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	80
+RENAMED TABLES:	0
+QUERIES RAN:	253
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wpstg1_actionscheduler_actions"__________________[ROWS:     6]
+TABLE "wpstg1_actionscheduler_claims"___________________[ROWS:     0]
+TABLE "wpstg1_actionscheduler_groups"___________________[ROWS:     3]
+TABLE "wpstg1_actionscheduler_logs"_____________________[ROWS:    14]
+TABLE "wpstg1_aryo_activity_log"________________________[ROWS:    14]
+TABLE "wpstg1_commentmeta"______________________________[ROWS:     0]
+TABLE "wpstg1_comments"_________________________________[ROWS:     3]
+TABLE "wpstg1_ddp_log"__________________________________[ROWS:     8]
+TABLE "wpstg1_duplicator_pro_entities"__________________[ROWS:     5]
+TABLE "wpstg1_duplicator_pro_packages"__________________[ROWS:     1]
+TABLE "wpstg1_e_submissions"____________________________[ROWS:     1]
+TABLE "wpstg1_e_submissions_actions_log"________________[ROWS:     1]
+TABLE "wpstg1_e_submissions_values"_____________________[ROWS:     6]
+TABLE "wpstg1_links"____________________________________[ROWS:     0]
+TABLE "wpstg1_ms_snippets"______________________________[ROWS:     0]
+TABLE "wpstg1_options"__________________________________[ROWS:   528]
+TABLE "wpstg1_postmeta"_________________________________[ROWS: 31756]
+TABLE "wpstg1_posts"____________________________________[ROWS:  2723]
+TABLE "wpstg1_ppress_forms"_____________________________[ROWS:     7]
+TABLE "wpstg1_ppress_formsmeta"_________________________[ROWS:   219]
+TABLE "wpstg1_ppress_meta_data"_________________________[ROWS:     0]
+TABLE "wpstg1_rank_math_404_logs"_______________________[ROWS:  9068]
+TABLE "wpstg1_rank_math_analytics_gsc"__________________[ROWS:     0]
+TABLE "wpstg1_rank_math_analytics_objects"______________[ROWS:   433]
+TABLE "wpstg1_rank_math_internal_links"_________________[ROWS:   539]
+TABLE "wpstg1_rank_math_internal_meta"__________________[ROWS:   578]
+TABLE "wpstg1_rank_math_redirections"___________________[ROWS:    54]
+TABLE "wpstg1_rank_math_redirections_cache"_____________[ROWS:    43]
+TABLE "wpstg1_shortpixel_folders"_______________________[ROWS:     0]
+TABLE "wpstg1_shortpixel_meta"__________________________[ROWS:     0]
+TABLE "wpstg1_snippets"_________________________________[ROWS:     1]
+TABLE "wpstg1_term_relationships"_______________________[ROWS:  2535]
+TABLE "wpstg1_term_taxonomy"____________________________[ROWS:    67]
+TABLE "wpstg1_termmeta"_________________________________[ROWS:    10]
+TABLE "wpstg1_terms"____________________________________[ROWS:    67]
+TABLE "wpstg1_trp_dictionary_en_us_fr_fr"_______________[ROWS:   525]
+TABLE "wpstg1_trp_gettext_en_us"________________________[ROWS:  1345]
+TABLE "wpstg1_trp_gettext_fr_fr"________________________[ROWS:  1151]
+TABLE "wpstg1_trp_original_meta"________________________[ROWS:   412]
+TABLE "wpstg1_trp_original_strings"_____________________[ROWS:   525]
+TABLE "wpstg1_usermeta"_________________________________[ROWS:   485]
+TABLE "wpstg1_users"____________________________________[ROWS:    10]
+TABLE "wpstg1_wpr_rucss_resources"______________________[ROWS:     0]
+TABLE "wpstg1_wpr_rucss_used_css"_______________________[ROWS:     0]
+
+INSERT DATA RUNTIME: 2.3379 sec.
+STEP-2 COMPLETE @ 02:05:13 - RUNTIME: 2.3380 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/tripsupport/public_html/qa REPLACE: /Users/arifalim/Local Sites/tripsupport/app/public [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://tripsupport.ca/qa REPLACE: http://tripsupport.local [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 02:05:13
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = minor], [inWpConfig = 1]
+WP_CACHE______________: [value = ], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 1024M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wpstg1_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:    47]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wpstg1_actionscheduler_actions"__________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wpstg1_actionscheduler_claims"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_actionscheduler_groups"___________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wpstg1_actionscheduler_logs"_____________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wpstg1_aryo_activity_log"________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_aryo_activity_log][0]
+
+EVALUATE TABLE: "wpstg1_commentmeta"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_comments"_________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_comments][0]
+
+EVALUATE TABLE: "wpstg1_ddp_log"__________________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_ddp_log][0]
+
+EVALUATE TABLE: "wpstg1_duplicator_pro_entities"__________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wpstg1_duplicator_pro_packages"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_e_submissions"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_e_submissions][0]
+
+EVALUATE TABLE: "wpstg1_e_submissions_actions_log"________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_e_submissions_actions_log][0]
+
+EVALUATE TABLE: "wpstg1_e_submissions_values"_____________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_e_submissions_values][0]
+
+EVALUATE TABLE: "wpstg1_links"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_ms_snippets"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_options"__________________________________[ROWS:   481][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_options][0]
+
+EVALUATE TABLE: "wpstg1_postmeta"_________________________________[ROWS: 31756][PG:  32][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][19]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][20]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][21]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][22]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][23]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][24]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][25]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][26]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][27]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][28]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][29]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][30]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_postmeta][31]
+
+EVALUATE TABLE: "wpstg1_posts"____________________________________[ROWS:  2723][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_posts][0]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_posts][1]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_posts][2]
+
+EVALUATE TABLE: "wpstg1_ppress_forms"_____________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_ppress_forms][0]
+
+EVALUATE TABLE: "wpstg1_ppress_formsmeta"_________________________[ROWS:   219][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_ppress_formsmeta][0]
+
+EVALUATE TABLE: "wpstg1_ppress_meta_data"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_rank_math_404_logs"_______________________[ROWS:  9068][PG:  10][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][0]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][1]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][2]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][3]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][4]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][5]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][6]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][7]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][8]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_404_logs][9]
+
+EVALUATE TABLE: "wpstg1_rank_math_analytics_gsc"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_rank_math_analytics_objects"______________[ROWS:   433][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_analytics_objects][0]
+
+EVALUATE TABLE: "wpstg1_rank_math_internal_links"_________________[ROWS:   539][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_internal_links][0]
+
+EVALUATE TABLE: "wpstg1_rank_math_internal_meta"__________________[ROWS:   578][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_rank_math_redirections"___________________[ROWS:    54][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_redirections][0]
+
+EVALUATE TABLE: "wpstg1_rank_math_redirections_cache"_____________[ROWS:    43][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_rank_math_redirections_cache][0]
+
+EVALUATE TABLE: "wpstg1_shortpixel_folders"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_shortpixel_meta"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_snippets"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_snippets][0]
+
+EVALUATE TABLE: "wpstg1_termmeta"_________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_termmeta][0]
+
+EVALUATE TABLE: "wpstg1_terms"____________________________________[ROWS:    67][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_terms][0]
+
+EVALUATE TABLE: "wpstg1_term_relationships"_______________________[ROWS:  2535][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_term_taxonomy"____________________________[ROWS:    67][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_term_taxonomy][0]
+
+EVALUATE TABLE: "wpstg1_trp_dictionary_en_us_fr_fr"_______________[ROWS:   525][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_dictionary_en_us_fr_fr][0]
+
+EVALUATE TABLE: "wpstg1_trp_gettext_en_us"________________________[ROWS:  1345][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_gettext_en_us][0]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_gettext_en_us][1]
+
+EVALUATE TABLE: "wpstg1_trp_gettext_fr_fr"________________________[ROWS:  1151][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_gettext_fr_fr][0]
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_gettext_fr_fr][1]
+
+EVALUATE TABLE: "wpstg1_trp_original_meta"________________________[ROWS:   412][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_original_meta][0]
+
+EVALUATE TABLE: "wpstg1_trp_original_strings"_____________________[ROWS:   525][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_trp_original_strings][0]
+
+EVALUATE TABLE: "wpstg1_usermeta"_________________________________[ROWS:   485][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_usermeta][0]
+
+EVALUATE TABLE: "wpstg1_users"____________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tripsupport/public_html/qa" ================> "/Users/arifalim/Local Sites/tripsupport/app/public"
+	SEARCH[urlnd]  2:"https://tripsupport.ca/qa" =======================> "http://tripsupport.local"
+	CHUNK ACTION: CURRENT [search_replace][wpstg1_users][0]
+
+EVALUATE TABLE: "wpstg1_wpr_rucss_resources"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpstg1_wpr_rucss_used_css"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:44 	|	 Rows:49982 	|	 Cells:279443 
+UPDATED:	Tables:5 	|	 Rows:1149 	|	 Cells:1156 
+ERRORS:		0 
+RUNTIME:	3.493000 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/Users/arifalim/Local Sites/tripsupport/app/public/wp-config.php
+New htaccess file created:/Users/arifalim/Local Sites/tripsupport/app/public/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_HOME "http://tripsupport.local"
+	UPDATE WP_SITEURL "http://tripsupport.local"
+	UPDATE WP_PLUGIN_DIR "/Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins"
+	UPDATE DB_NAME ""local""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE false
+	WP CONFIG UPDATE WP_DEBUG false
+	WP CONFIG UPDATE WP_AUTO_UPDATE_CORE "minor"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 0 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/Users/arifalim/Local Sites/tripsupport/app/public"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 02:05:17 - RUNTIME: 3.6633 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[NOTICE] Plugin WPS Hide Login disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically due to issues that one may encounter when migrating. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[WARNING] Deactivated plugin: Really Simple SSL
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated because you are migrating from SSL (HTTPS) to Non-SSL (HTTP).If it was not deactivated, you would not be able to login.
+
+-----------------------
+[NOTICE] WPS Hide Login has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate WPS Hide Login after you login.
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /Users/arifalim/Local Sites/tripsupport/app/public/index.php
+E_USER_NOTICE [Files] Calling many times CacheManager::getInstance() for already instanced drivers is a bad practice and have a significant impact on performances.
+           See https://github.com/PHPSocialNetwork/phpfastcache/wiki/[V5]-Why-calling-getInstance%28%29-each-time-is-a-bad-practice-%3F
+	FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	--- TRACE ---
+	FUNCTION: trigger_error                 FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	CLASS___: Phpfastcache\CacheManager::getInstanceFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/Helper/Psr16Adapter.php[64]
+	CLASS___: Phpfastcache\Helper\Psr16Adapter->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Cache.php[18]
+	CLASS___: Tr\Feature\Vacation\Cache->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Shortcode.php[124]
+	CLASS___: Tr\Feature\Vacation\Shortcode->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Main.php[19]
+	CLASS___: Tr\Feature\Vacation\Main->bootFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[303]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[327]
+	CLASS___: WP_Hook->do_action            FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/plugin.php[470]
+	FUNCTION: do_action                     FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-settings.php[441]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-config.php[92]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/arifalim/Local Sites/tripsupport/app/public/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/wp_test_script_abc64e1-08170258.php[96]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_USER_NOTICE [Files] Calling many times CacheManager::getInstance() for already instanced drivers is a bad practice and have a significant impact on performances.
+           See https://github.com/PHPSocialNetwork/phpfastcache/wiki/[V5]-Why-calling-getInstance%28%29-each-time-is-a-bad-practice-%3F
+	FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	--- TRACE ---
+	FUNCTION: trigger_error                 FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	CLASS___: Phpfastcache\CacheManager::getInstanceFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/Helper/Psr16Adapter.php[64]
+	CLASS___: Phpfastcache\Helper\Psr16Adapter->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Cache.php[18]
+	CLASS___: Tr\Feature\Vacation\Cache->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Ajax.php[13]
+	CLASS___: Tr\Feature\Vacation\Ajax->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Main.php[20]
+	CLASS___: Tr\Feature\Vacation\Main->bootFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[303]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[327]
+	CLASS___: WP_Hook->do_action            FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/plugin.php[470]
+	FUNCTION: do_action                     FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-settings.php[441]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-config.php[92]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/arifalim/Local Sites/tripsupport/app/public/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/wp_test_script_abc64e1-08170258.php[96]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /Users/arifalim/Local Sites/tripsupport/app/public/wp-login.php
+E_USER_NOTICE [Files] Calling many times CacheManager::getInstance() for already instanced drivers is a bad practice and have a significant impact on performances.
+           See https://github.com/PHPSocialNetwork/phpfastcache/wiki/[V5]-Why-calling-getInstance%28%29-each-time-is-a-bad-practice-%3F
+	FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	--- TRACE ---
+	FUNCTION: trigger_error                 FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	CLASS___: Phpfastcache\CacheManager::getInstanceFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/Helper/Psr16Adapter.php[64]
+	CLASS___: Phpfastcache\Helper\Psr16Adapter->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Cache.php[18]
+	CLASS___: Tr\Feature\Vacation\Cache->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Shortcode.php[124]
+	CLASS___: Tr\Feature\Vacation\Shortcode->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Main.php[19]
+	CLASS___: Tr\Feature\Vacation\Main->bootFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[303]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[327]
+	CLASS___: WP_Hook->do_action            FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/plugin.php[470]
+	FUNCTION: do_action                     FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-settings.php[441]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-config.php[92]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/wp_test_script_abc64e1-08170258.php[96]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_USER_NOTICE [Files] Calling many times CacheManager::getInstance() for already instanced drivers is a bad practice and have a significant impact on performances.
+           See https://github.com/PHPSocialNetwork/phpfastcache/wiki/[V5]-Why-calling-getInstance%28%29-each-time-is-a-bad-practice-%3F
+	FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	--- TRACE ---
+	FUNCTION: trigger_error                 FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/CacheManager.php[198]
+	CLASS___: Phpfastcache\CacheManager::getInstanceFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/Helper/Psr16Adapter.php[64]
+	CLASS___: Phpfastcache\Helper\Psr16Adapter->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Cache.php[18]
+	CLASS___: Tr\Feature\Vacation\Cache->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Ajax.php[13]
+	CLASS___: Tr\Feature\Vacation\Ajax->__constructFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/plugins/tr-feature-vacation-deal/src/Main.php[20]
+	CLASS___: Tr\Feature\Vacation\Main->bootFILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[303]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/class-wp-hook.php[327]
+	CLASS___: WP_Hook->do_action            FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-includes/plugin.php[470]
+	FUNCTION: do_action                     FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-settings.php[441]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-config.php[92]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/arifalim/Local Sites/tripsupport/app/public/wp-content/wp_test_script_abc64e1-08170258.php[96]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/Users/arifalim/Local Sites/tripsupport/app/public/dup-installer/ctrls/ctrl.base.php:231][DELTA:   0.03718]  MESSAGE:END RENDER PAGE

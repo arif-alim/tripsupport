@@ -1,0 +1,15 @@
+{
+    "name": "hamzeh/tripsupportwp",
+	"type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "hamzeh ghalavand",
+            "email": "hamzeh.ghalavand@gmail.com"
+        }
+    ],
+    "require": {},
+	 "autoload": {
+        "psr-4": {"Inc\\":"./inc"}
+    }
+}

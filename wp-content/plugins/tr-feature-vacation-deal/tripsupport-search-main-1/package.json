@@ -1,0 +1,61 @@
+{
+  "name": "webpack-simple",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "version": "2.0.0",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@types/node": "^17.0.21",
+    "autoprefixer": "^10.2.4",
+    "axios": "^0.21.1",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^5.0.2",
+    "deepmerge": "^4.2.2",
+    "node-sass": "^4.14.1",
+    "postcss": "^8.2.5",
+    "postcss-loader": "^5.0.0",
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^2.0.0",
+    "tailwindcss": "^2.0.3",
+    "url-loader": "^4.1.1",
+    "vue-axios": "^3.2.4",
+    "vue-loader": "^15.9.6",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "fecha": "^4.2.1",
+    "lodash.throttle": "^4.1.1",
+    "moment": "^2.29.1",
+    "vue": "^2.6.12",
+    "vue-cookie": "^1.1.4",
+    "vue-gtag": "^1.16.1",
+    "vue-hotel-datepicker": "^4.5.0",
+    "vue-i18n": "^8.23.0",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "3",
+    "vue2-daterange-picker": "^0.6.3",
+    "vuetify": "^2.4.4",
+    "vuetify-loader": "^1.7.3",
+    "vuex": "^3.6.2"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "last 2 version",
+    "not dead",
+    "iOS >= 9"
+  ]
+}

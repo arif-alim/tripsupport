@@ -1,0 +1,13 @@
+import Vue from 'vue';
+import DatePicker from '../components/SearchBox/Common/newDatePicker.vue';
+import SearchButton from '../components/SearchBox/Common/SearchButton.vue';
+import dropdownDialog from '../components/SearchBox/Common/MenuDialog.vue';
+import Toast from '../components/SearchBox/Common/Toast.vue';
+import SearchDialog from '../components/SearchBox/Common/SearchDialog.vue';
+import Autocomplete from '../components/SearchBox/Common/Autocomplete.vue';
+Vue.component('NewDatePicker', DatePicker);
+Vue.component('SearchButton', SearchButton);
+Vue.component('DropdownDialog', dropdownDialog);
+Vue.component('SearchDialog', SearchDialog);
+Vue.component('Autocomplete', Autocomplete);
+Vue.component('Toast', Toast);

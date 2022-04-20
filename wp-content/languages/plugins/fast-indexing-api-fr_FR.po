@@ -1,0 +1,362 @@
+# Translation of Plugins - Instant Indexing for Google - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Instant Indexing for Google - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-14 14:39:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Instant Indexing for Google - Stable (latest release)\n"
+
+#: views/dashboard.php:368
+msgid "with your version of WordPress"
+msgstr "avec votre version de WordPress"
+
+#: views/dashboard.php:368
+msgid "Compatible"
+msgstr "Compatible"
+
+#: views/dashboard.php:362
+msgid "Rank Math is a revolutionary SEO plugin that combines the features of many SEO tools in a single package & helps you multiply your traffic."
+msgstr "Rank Math est une extension SEO qui combine les fonctionnalités de nombreux outils SEO dans un unique paquet et vous aide à multiplier votre trafic."
+
+#: views/dashboard.php:343
+msgid "WordPress SEO Plugin – Rank Math"
+msgstr "Extension SEO WordPress – Rank Math"
+
+#: views/dashboard.php:329
+msgid "Install for Free"
+msgstr "Installer gratuitement"
+
+#: views/dashboard.php:324
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: views/dashboard.php:307
+msgid "Please activate WooCommerce plugin to use this module."
+msgstr "Veuillez activer l’extension WooCommerce pour utiliser ce module."
+
+#: views/dashboard.php:302
+msgid "WooCommerce module to use Rank Math to optimize WooCommerce Product Pages."
+msgstr "Le module WooCommerce utilisera Rank Math pour optimiser les pages de produits WooCommerce."
+
+#: views/dashboard.php:301
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: views/dashboard.php:280
+msgid "Enable Rank Math's sitemap feature, which helps search engines index your website's content effectively."
+msgstr "Activez la fonctionnalité de plan de site de Rank Math qui aide les moteurs de recherche à indexer efficacement le contenu de votre site."
+
+#: views/dashboard.php:279
+msgid "Sitemap"
+msgstr "Plan de site"
+
+#: views/dashboard.php:258
+msgid "Let Rank Math analyze your website and your website's content using 70+ different tests to provide tailor-made SEO Analysis to you."
+msgstr "Laissez Rank Math analyser votre site et son contenu en utilisant plus de 70 tests différents pour vous fournir une analyse SEO sur mesure."
+
+#: views/dashboard.php:257
+msgid "SEO Analysis"
+msgstr "Analyse SEO"
+
+#: views/dashboard.php:236
+msgid "Connect Rank Math with Google Search Console to see the most important information from Google directly in your WordPress dashboard."
+msgstr "Connectez Rank Math à Google Search Console pour voir les plus importantes informations Google directement dans votre tableau de bord WordPress."
+
+#: views/dashboard.php:235
+msgid "Search Console"
+msgstr "Search Console"
+
+#: views/dashboard.php:214
+msgid "The Role Manager allows you to use internal WordPress' roles to control which of your site admins can change Rank Math's settings"
+msgstr "Le gestionnaire de rôles permet d’utiliser les rôles internes de WordPress pour contrôler lequel des administrateurs du site peut modifier les réglages de Rank Math."
+
+#: views/dashboard.php:213
+msgid "Role Manager"
+msgstr "Gestionnaire de rôle"
+
+#: views/dashboard.php:192
+msgid "Enable support for the Rich Snippets, which adds metadata to your website, resulting in rich search results and more traffic."
+msgstr "Activez la prise en charge des extraits enrichis qui ajoute des métadonnées à votre site, générant ainsi des résultats de recherche enrichis et un trafic accru."
+
+#: views/dashboard.php:191
+msgid "Rich Snippets"
+msgstr "Extraits enrichis"
+
+#: views/dashboard.php:170
+msgid "Redirect non-existent content easily with 301 and 302 status code. This can help reduce errors and improve your site ranking."
+msgstr "Redirigez facilement le contenu inexistant avec les codes d’état 301 et 302. Cela peut aider à réduire les erreurs et à améliorer le classement de votre site."
+
+#: views/dashboard.php:169
+msgid "Redirections"
+msgstr "Redirections"
+
+#: views/dashboard.php:148
+msgid "Dominate the search results for local audience by optimizing your website and posts using this Rank Math module."
+msgstr "Dominez les résultats de la recherche pour l’audience locale en optimisant votre site et vos publications à l’aide de ce module Rank Math."
+
+#: views/dashboard.php:147
+msgid "Local SEO &amp; Google Knowledge Graph"
+msgstr "SEO local & Google Knowledge Graph"
+
+#: views/dashboard.php:127
+msgid "Counts the total number of internal, external links, to and from links inside your posts."
+msgstr "Compte le nombre total de liens internes, externes, vers et depuis contenus dans vos publications."
+
+#: views/dashboard.php:126
+msgid "Link Counter"
+msgstr "Compteur de liens"
+
+#: views/dashboard.php:111
+msgid "Please activate bbPress plugin to use this module."
+msgstr "Veuillez activer l’extension bbPress pour utiliser ce module."
+
+#: views/dashboard.php:105
+msgid "Add required meta tags on bbPress pages."
+msgstr "Ajoutez les balises méta nécessaires sur les pages bbPress."
+
+#: views/dashboard.php:104
+msgid "bbPress"
+msgstr "bbPress"
+
+#: views/dashboard.php:83
+msgid "Install the AMP plugin from WordPress.org to make Rank Math work with Accelerated Mobile Pages. It is required because AMP are different than WordPress pages and our plugin doesn't work with them out-of-the-box."
+msgstr "Installez l’extension AMP de WordPress.org pour que Rank Math fonctionne avec les pages mobiles accélérées. C’est nécessaire car les pages AMP sont différentes des pages WordPress et notre extension ne fonctionne pas directement avec celles-ci."
+
+#: views/dashboard.php:82
+msgid "AMP"
+msgstr "AMP"
+
+#: views/dashboard.php:72 views/dashboard.php:93 views/dashboard.php:116
+#: views/dashboard.php:137 views/dashboard.php:159 views/dashboard.php:181
+#: views/dashboard.php:203 views/dashboard.php:225 views/dashboard.php:247
+#: views/dashboard.php:269 views/dashboard.php:291 views/dashboard.php:312
+msgid "Inactive"
+msgstr "Inactif"
+
+#: views/dashboard.php:59
+msgid "Records the URLs on which visitors &amp; search engines run into 404 Errors. You can also turn on Redirections to redirect the error causing URLs to other URLs."
+msgstr "Enregistre les URL d’erreur 404 sur lesquelles les visiteurs et les moteurs de recherche arrivent. Vous pouvez également activer les redirections pour rediriger les erreurs 404 vers d’autres URL."
+
+#: views/dashboard.php:58
+msgid "404 Monitor"
+msgstr "Moniteur 404"
+
+#: views/dashboard.php:47 views/dashboard.php:48 views/dashboard.php:71
+#: views/dashboard.php:92 views/dashboard.php:115 views/dashboard.php:136
+#: views/dashboard.php:158 views/dashboard.php:180 views/dashboard.php:202
+#: views/dashboard.php:224 views/dashboard.php:246 views/dashboard.php:268
+#: views/dashboard.php:290 views/dashboard.php:311
+msgid "Active"
+msgstr "Actif"
+
+#: views/dashboard.php:47 views/dashboard.php:71 views/dashboard.php:92
+#: views/dashboard.php:115 views/dashboard.php:136 views/dashboard.php:158
+#: views/dashboard.php:180 views/dashboard.php:202 views/dashboard.php:224
+#: views/dashboard.php:246 views/dashboard.php:268 views/dashboard.php:290
+#: views/dashboard.php:311
+msgid "Status:"
+msgstr "État :"
+
+#: views/dashboard.php:42 views/dashboard.php:66 views/dashboard.php:88
+#: views/dashboard.php:111 views/dashboard.php:132 views/dashboard.php:154
+#: views/dashboard.php:176 views/dashboard.php:198 views/dashboard.php:220
+#: views/dashboard.php:242 views/dashboard.php:264 views/dashboard.php:286
+#: views/dashboard.php:307
+msgid "Toggle"
+msgstr "Permuter"
+
+#: views/dashboard.php:24
+msgid "Import &amp; Export"
+msgstr "Importer & exporter"
+
+#: views/dashboard.php:23
+msgid "Setup Wizard"
+msgstr "Assistant de configuration"
+
+#: views/dashboard.php:22
+msgid "Modules"
+msgstr "Modules"
+
+#: views/dashboard.php:17
+msgid "The most complete WordPress SEO plugin to convert your website into a traffic generating machine."
+msgstr "L’extension de SEO WordPress la plus complète pour convertir votre site Web en une machine générant du trafic."
+
+#: views/dashboard.php:14
+msgid "Welcome to Rank Math!"
+msgstr "Bienvenue dans Rank Math !"
+
+#: views/console.php:60
+msgid "Response..."
+msgstr "Réponse…"
+
+#: views/console.php:56
+msgid "Show Raw Response"
+msgstr "Afficher la réponse brute"
+
+#: views/console.php:46
+msgid "Send to API"
+msgstr "Envoyer à l’API"
+
+#: views/console.php:45
+msgid "Get status"
+msgstr "Obtenir l’état"
+
+#: views/console.php:44
+msgid "Remove"
+msgstr "Supprimer"
+
+#: views/console.php:43
+msgid "Publish/update"
+msgstr "Publier/mettre à jour"
+
+#: views/console.php:42
+msgid "Action:"
+msgstr "Action :"
+
+#: views/console.php:39
+msgid "URLs (one per line, up to 100):"
+msgstr "URL (une par ligne, jusqu’à 100) :"
+
+#: views/console.php:32
+msgid "API Limits:"
+msgstr "Limites de l’API :"
+
+#. translators: %s is a link to the plugin settings tab.
+#: views/console.php:20
+msgid "Please navigate to the %s tab to configure the plugin."
+msgstr "Veuillez aller à l’onglet %s pour configurer l’extension."
+
+#: views/settings.php:38
+msgid "Submit posts from these post types automatically in the background when a post is published, edited, or deleted. Also adds action links to submit manually."
+msgstr "Envoyez automatiquement des publications à partir de ces types de publication en arrière-plan lorsqu’une publication, une modification ou une suppression est faite. Ajoute également des liens d’action à envoyer manuellement."
+
+#: views/settings.php:37
+msgid "Post Types:"
+msgstr "Types de publication :"
+
+#: views/settings.php:29
+msgid "Or upload JSON file: "
+msgstr "Ou téléverser le fichier JSON : "
+
+#: views/settings.php:24
+msgid "<code>rank-math-835b6feb842b.json</code> file found in the plugin folder. You cannot change the JSON key from here until you delete or remame this file."
+msgstr "Fichier <code>rank-math-835b6feb842b.json</code> trouvé dans le dossier de l’extension. Vous ne pouvez pas modifier la clé JSON depuis ici jusqu’à ce que vous supprimiez ou renommiez ce fichier."
+
+#: views/settings.php:17
+msgid "Upload the Service Account JSON key file you obtained from Google API Console or paste its contents in the field."
+msgstr "Téléversez le fichier de clé JSON du compte de service que vous avez obtenu à partir de la console d’API Google ou collez son contenu dans le champ."
+
+#: views/settings.php:16
+msgid "JSON Key:"
+msgstr "Clé JSON :"
+
+#: views/settings.php:10
+msgid "Instant Indexing Settings"
+msgstr "Réglages d’indexation instantanée"
+
+#: includes/class-instant-indexing.php:733
+msgid "The post was automatically submitted to the Instant Indexing for deletion."
+msgstr "La publication a été automatiquement envoyée à l’indexation instantanée pour suppression."
+
+#: includes/class-instant-indexing.php:708
+msgid "The post was automatically submitted to the Instant Indexing for indexation."
+msgstr "La publication a été automatiquement envoyée à l’indexation instantanée pour indexation."
+
+#. translators: %s is a link to Rank Math plugin page
+#: includes/class-instant-indexing.php:680 views/dashboard.php:344
+msgid "Rank Math SEO"
+msgstr "Rank Math SEO"
+
+#. translators: %s is a link to Rank Math plugin page
+#: includes/class-instant-indexing.php:680
+msgid "It is recommended to use %s along with the Instant Indexing plugin."
+msgstr "Il est recommandé d’utiliser %s avec l’extension d’indexation instantanée."
+
+#: includes/class-instant-indexing.php:661
+msgid "Active (Plugin)"
+msgstr "Active (extension)"
+
+#: includes/class-instant-indexing.php:631 views/settings.php:18
+#: views/dashboard.php:35
+msgid "Read our setup guide"
+msgstr "Lire notre guide d’installation"
+
+#: includes/class-instant-indexing.php:631 views/dashboard.php:35
+msgid "Directly notify Google when pages are added, updated or removed. The Indexing API supports pages with either job posting or livestream structured data."
+msgstr "Notifiez directement Google lorsque des pages sont ajoutées, mises à jour ou supprimées. L’API d’indexation prend en charge les pages contenant des offres d’emploi ou des données structurées en direct."
+
+#: includes/class-instant-indexing.php:518
+msgid "Settings updated."
+msgstr "Réglages mis à jour."
+
+#: includes/class-instant-indexing.php:472
+msgid "See response for details."
+msgstr "Voir la réponse pour plus de détails."
+
+#: includes/class-instant-indexing.php:471
+msgid "Last updated "
+msgstr "Dernière mise à jour "
+
+#: includes/class-instant-indexing.php:470
+msgid "Error"
+msgstr "Erreur"
+
+#: includes/class-instant-indexing.php:469
+msgid "Success"
+msgstr "Terminé"
+
+#: includes/class-instant-indexing.php:379
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: includes/class-instant-indexing.php:131
+#: includes/class-instant-indexing.php:186
+msgid "Instant Indexing: Get Status"
+msgstr "Indexation instantanée : obtenir l’état"
+
+#: includes/class-instant-indexing.php:130
+#: includes/class-instant-indexing.php:185
+msgid "Instant Indexing: Update"
+msgstr "Indexation instantanée : mettre à jour"
+
+#: includes/class-instant-indexing.php:79
+#: includes/class-instant-indexing.php:83
+msgid "Console"
+msgstr "Console"
+
+#: includes/class-instant-indexing.php:78
+#: includes/class-instant-indexing.php:84
+#: includes/class-instant-indexing.php:743 views/console.php:21
+#: views/dashboard.php:36 views/dashboard.php:60 views/dashboard.php:149
+#: views/dashboard.php:171 views/dashboard.php:193 views/dashboard.php:215
+#: views/dashboard.php:237 views/dashboard.php:259 views/dashboard.php:281
+msgid "Settings"
+msgstr "Réglages"
+
+#. Author URI of the plugin
+msgid "https://s.rankmath.com/home"
+msgstr "https://s.rankmath.com/home"
+
+#. Author of the plugin
+msgid "Rank Math"
+msgstr "Rank Math"
+
+#. Description of the plugin
+msgid "Get your website crawled immediately by Google using their NEW Indexing API."
+msgstr "Faites immédiatement explorer votre site par Google à l’aide de sa nouvelle API d’indexation."
+
+#. Plugin URI of the plugin
+msgid "https://s.rankmath.com/indexing-api"
+msgstr "https://s.rankmath.com/indexing-api"
+
+#. Plugin Name of the plugin
+#: includes/class-instant-indexing.php:380
+#: includes/class-instant-indexing.php:384
+#: includes/class-instant-indexing.php:630 views/dashboard.php:34
+msgid "Instant Indexing"
+msgstr "Indexation instantanée"

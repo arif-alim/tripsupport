@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//tripsupport.ca/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://tripsupport.ca/post-sitemap.xml</loc>
+		<lastmod>2021-09-05T18:49:57+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/page-sitemap.xml</loc>
+		<lastmod>2021-09-02T02:03:22+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/flights-sitemap1.xml</loc>
+		<lastmod>2021-09-04T17:21:20+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/flights-sitemap2.xml</loc>
+		<lastmod>2021-08-24T19:06:52+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/vacation-sitemap.xml</loc>
+		<lastmod>2021-09-05T12:33:59+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/hotel-sitemap.xml</loc>
+		<lastmod>2021-05-22T19:13:42+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/flight_hotel-sitemap.xml</loc>
+		<lastmod>2021-08-19T17:57:51+04:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tripsupport.ca/category-sitemap.xml</loc>
+		<lastmod>2021-09-05T18:49:57+04:30</lastmod>
+	</sitemap>
+</sitemapindex>
